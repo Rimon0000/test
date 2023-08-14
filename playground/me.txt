@@ -1,6 +1,0 @@
-{{#user}
-Name: Rimon Uddin
-Skills: HTML5, CSS3, Tailwind CSS, Bootstrap, JavaScript, React.js, Firebase, Express.js, Node.js, MongoDB, React Router, React Hook Form, REST API,
-Debugging, Local storage, JWT.
-Email: rimonron.ad@gmail.com
-{{/user}}
